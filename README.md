@@ -1,3 +1,3 @@
-# UAS_PBD
-FINAL PROJECT
-rental_game1
+PROJECT ABOUT RENTAL GAME
+
+- only database
